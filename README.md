@@ -27,5 +27,6 @@ Jest is already configured to respect some rules and generate coverage, run ```y
   * [Spread operator](https://www.npmjs.com/package/babel-plugin-transform-es2015-spread)
   * [Destructuring](https://www.npmjs.com/package/babel-plugin-transform-es2015-destructuring)
   * [For-Of](https://www.npmjs.com/package/babel-plugin-transform-es2015-for-of)
+  * [Template literals](https://www.npmjs.com/package/babel-plugin-transform-es2015-template-literals)
 * [Eslint](https://eslint.org/)
 * [Jest](https://facebook.github.io/jest/)
