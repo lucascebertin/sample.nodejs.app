@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "transform-exponentiation-operator", 
+    "transform-async-to-bluebird",
+    "transform-object-rest-spread",
+    "transform-es2015-modules-commonjs",
+    "transform-es2015-spread",
+    "transform-es2015-destructuring",
+    "transform-es2015-for-of"
+  ]
+}

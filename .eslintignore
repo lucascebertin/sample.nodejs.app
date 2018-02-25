@@ -1,0 +1,5 @@
+# This is a comment
+# /node_modules/* and /bower_components/* ignored by default
+dist
+coverage
+cache
